@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RaresSanduConstantin/robo-CJS/static/css/main.00c36b1d.chunk.css",
+    "main.js": "/RaresSanduConstantin/robo-CJS/static/js/main.72180922.chunk.js",
+    "main.js.map": "/RaresSanduConstantin/robo-CJS/static/js/main.72180922.chunk.js.map",
+    "runtime-main.js": "/RaresSanduConstantin/robo-CJS/static/js/runtime-main.742bb877.js",
+    "runtime-main.js.map": "/RaresSanduConstantin/robo-CJS/static/js/runtime-main.742bb877.js.map",
+    "static/css/2.31461e4f.chunk.css": "/RaresSanduConstantin/robo-CJS/static/css/2.31461e4f.chunk.css",
+    "static/js/2.2c111378.chunk.js": "/RaresSanduConstantin/robo-CJS/static/js/2.2c111378.chunk.js",
+    "static/js/2.2c111378.chunk.js.map": "/RaresSanduConstantin/robo-CJS/static/js/2.2c111378.chunk.js.map",
+    "index.html": "/RaresSanduConstantin/robo-CJS/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/RaresSanduConstantin/robo-CJS/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.00c36b1d.chunk.css.map": "/RaresSanduConstantin/robo-CJS/static/css/main.00c36b1d.chunk.css.map",
+    "static/js/2.2c111378.chunk.js.LICENSE.txt": "/RaresSanduConstantin/robo-CJS/static/js/2.2c111378.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RaresSanduConstantin/robo-CJS/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742bb877.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.2c111378.chunk.js",
+    "static/css/main.00c36b1d.chunk.css",
+    "static/js/main.72180922.chunk.js"
+  ]
+}
